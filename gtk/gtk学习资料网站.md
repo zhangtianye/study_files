@@ -6,3 +6,5 @@
 
 <a href = http://thebigdoc.readthedocs.io/en/latest/PyGObject-Tutorial>pygtk3 api chinese/简体中文 doc: </a>&nbsp http://thebigdoc.readthedocs.io/en/latest/PyGObject-Tutorial/
 
+<a href https://developer.gnome.org/gtk3/stable/chap-css-overview.html>gtk3 css overview: </a>&nbsp https://developer.gnome.org/gtk3/stable/chap-css-overview.html
+
